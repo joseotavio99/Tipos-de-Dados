@@ -1,5 +1,5 @@
-EstruturaDeSelecao {
+public class EstruturaDeSelecao {
 
-    
+
 
 }
