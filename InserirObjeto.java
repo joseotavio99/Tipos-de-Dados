@@ -16,8 +16,8 @@ public class InserirObjeto {
     area = base * altura;
 
     System.out.printf("A area de um retangulo de base = " + base);
-    System.out.printf("e altura de = " + altura);
-    System.out.printf("é = " + area);
+    System.out.printf("\n e altura de = " + altura);
+    System.out.printf("\n é = " + area);
 
 
 
