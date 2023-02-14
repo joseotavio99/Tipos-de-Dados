@@ -4,7 +4,7 @@ public class EstruturaDeSelecao {
     
         int idade;
 
-        idade=19;
+        idade=10;
 
         if (idade >= 18)
         {
