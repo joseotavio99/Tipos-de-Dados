@@ -19,10 +19,6 @@ public class InserirObjeto {
     System.out.printf("\n e altura de = " + altura);
     System.out.printf("\n é = " + area +  "\n");
 
-
-
-
-
     }
 
 }
