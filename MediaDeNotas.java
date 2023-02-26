@@ -21,15 +21,17 @@ public class MediaDeNotas {
         System.out.printf("\n Segunda nota foi = " + n2);
         System.out.printf("\n sua média é = " + media +  "\n");
 
-        if (media >= 7)
+        if (media >= 8 && media <= 10 )
         {
-            System.out.print("Aluno aprovado \n");
+            System.out.print("Aluno está Aprovado \n");
             
-        } else {
-            System.out.print("Reprovado \n");          
+        } else if (media >= 5 && media <= 7) {
+            System.out.print("Aprovado ,mas terá que fazer recuperação \n");          
+        } else if (media >= 0 && media <= 4) {
+            System.out.print("Aluno está Reprovado\n");  
+        } else{
+            System.out.print("erro na media \n");  
         }
-
-    
-        }
+    }      
     
 }
