@@ -5,6 +5,6 @@ public class EstruturaDeRepeticao {
         while (cc<10){
         System.out.println("teste" + (cc+1));
         cc++;
-        }
+        }dsadsadads
     }
 }
